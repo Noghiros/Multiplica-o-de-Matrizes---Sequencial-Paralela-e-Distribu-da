@@ -1,0 +1,36 @@
+
+------------------------\------------------------
+Tamanhos das matrizes: 100x100
+Tempo Sequencial: 0.59 ms
+Tempo Paralelo: 585.45 ms
+Tempo Distribuído: 3.96 ms
+
+------------------------\------------------------
+Tamanhos das matrizes: 200x200
+Tempo Sequencial: 4.52 ms
+Tempo Paralelo: 567.62 ms
+Tempo Distribuído: 4.44 ms
+
+------------------------\------------------------
+Tamanhos das matrizes: 300x300
+Tempo Sequencial: 14.96 ms
+Tempo Paralelo: 648.76 ms
+Tempo Distribuído: 19.77 ms
+
+------------------------\------------------------
+Tamanhos das matrizes: 500x500
+Tempo Sequencial: 82.36 ms
+Tempo Paralelo: 749.58 ms
+Tempo Distribuído: 78.49 ms
+
+------------------------\------------------------
+Tamanhos das matrizes: 1000x1000
+Tempo Sequencial: 1197.41 ms
+Tempo Paralelo: 1178.25 ms
+Tempo Distribuído: 751.87 ms
+
+------------------------\------------------------
+Tamanhos das matrizes: 2000x2000
+Tempo Sequencial: 11536.83 ms
+Tempo Paralelo: 4585.29 ms
+Tempo Distribuído: 10323.69 ms
